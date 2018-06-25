@@ -1,5 +1,5 @@
 # LeetCode
-The links to best blogs I found regarding to some of LeetCode problems
+The links to best blogs I found regarding to some of LeetCode problems.
 I am currently trying to solve problems in LeetCode.
 However, for most of the problems, I found the disscusion part not so useful and the code provided individually hard to understand.
 My current solution is to search online for blogs that provide satisfacotry explanations.
